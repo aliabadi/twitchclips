@@ -11,7 +11,7 @@ they livestream with music in the background.
 
 ## INTERFACE:
 
-    Video-player twitch extension with quickclip, clip & title buttons
+    Video-player twitch extension with 'quickclip', 'clip & title' buttons
 
 ### and/or
 
@@ -29,7 +29,7 @@ they livestream with music in the background.
 
 ## Implentation
 
-Built on AWS platform for scalability to all of twitch.
+Built on AWS for scalability to all of twitch.
 
 This will cost money to store vods and clips, but nothing compared to all the time it will save.
 If Partners paid a nominal fee *I think* it can be free for everyone else to use.  This will depend 

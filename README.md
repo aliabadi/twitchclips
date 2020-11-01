@@ -37,3 +37,7 @@ Built on AWS for scalability to all of twitch.
 This will cost money to store vods and clips, but nothing compared to all the time it will save.
 If Partners paid a nominal fee *I think* it can be free for everyone else to use.  This will depend 
 if transcoding is required.  If no transcodes are needed, the price decreases significantly.
+
+## Todo
+
+If this idea isn't confirmed as trash, figure out the price and which tech to use

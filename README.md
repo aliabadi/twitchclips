@@ -7,8 +7,8 @@ they livestream with music in the background.
 * Saves full vod (with link on discord) for X days for offline download
 * Lists all user clips and timestamps with final vod
 * Discord bot that uploads mp4 files to [#chat-clips] after chat clips them.
-* (Normally I would say post an mp4 link to chat, but dmca troll bots REEE) Maybe post discord link
-
+* (Normally I would say post an mp4 link to chat, but dmca troll bots REEE)
+ 
 ## INTERFACE:
 
 ### Video-player buttons:

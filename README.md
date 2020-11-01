@@ -40,5 +40,5 @@ if transcoding is required.  If no transcodes are needed, the price decreases si
 
 ## Todo
 
-- [] If this idea isn't confirmed as trash, figure out the price and which tech to use
+- [ ] If this idea isn't confirmed as trash, figure out the price and which tech to use
 - [x] Find a guinea pig

@@ -4,7 +4,7 @@ they livestream with music in the background.
 
 ### Here's what I think it should have so far:
 
-* Saves full vod for X days for offline download
+* Saves full vod (with link on discord) for X days for offline download
 * Lists all user clips and timestamps with final vod
 * Discord bot that uploads mp4 files to [#chat-clips] after chat clips them.
 * (Normally I would say post an mp4 link to chat, but dmca troll bots REEE)

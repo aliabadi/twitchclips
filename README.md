@@ -11,7 +11,10 @@ they livestream with music in the background.
 
 ## INTERFACE:
 
-    Video-player twitch extension with 'quickclip', 'clip & title' buttons
+### Video-player buttons:
+
+    'quickclip' button
+    'clip & title' button
 
 ### and/or
 

@@ -21,7 +21,7 @@ they livestream with music in the background.
 ### Chat bot with commands: 
 
     !adduser username
-    !clip [Clip title] [Clip length in seconds, up to MAX]
+    !clip [Clip length in seconds, up to MAX] [Clip title] 
 
     /////// suggest bot commands
     !mod username
